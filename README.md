@@ -1,4 +1,6 @@
 # 📊 Global Salary Prediction & Analysis
+**Machine Learning 1 final project exploring factors that influence salary disparities across countries and demographics**
+
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403120/header.jpg?t=1734531141" width="100%">
 
 ## Author List :black_nib:
