@@ -35,7 +35,7 @@ This project, which we titled "The Game of Life," focuses on analyzing various f
 
 :chart_with_upwards_trend: **Development of robust predictive models** that accurately forecast salary potential based on demographic and geographic factors.
 
-:chart_with_upwards_trend: Creation of an **interactive analysis framework** that enables stakeholders to explore salary patterns across different countries and demographics.
+:chart_with_upwards_trend: Creation of an **interactive analysis framework** that enables the audience to explore salary patterns across different countries and demographics.
 
 :chart_with_upwards_trend: Through the exploration of these factors, this project aims to provide valuable insights into **global compensation** disparities and support data-driven decision-making for job seekers.
 
@@ -66,7 +66,7 @@ Our final log-log regression model achieved strong predictive performance:
 * **Diagnostic Tests:** Breusch-Pagan test results showed improved heteroscedasticity compared to linear models
 * **VIF Analysis**: Multicollinearity assessment confirmed model stability (though interaction terms showed expected higher values)
 
-* [Game_of_Life Code](https://github.com/MThompson384/Game_of_Life.ML-Project/blob/main/notebook.ipynb)
+[Game_of_Life Code](https://github.com/MThompson384/Game_of_Life.ML-Project/blob/main/notebook.ipynb)
 
 ## Sample Predictions :lock_with_ink_pen: :
 To demonstrate model capabilities, we generated salary predictions for our team members across different countries:
