@@ -61,10 +61,10 @@ The Salary Prediction Model incorporates the following features:
 ## Model Performance :round_pushpin: 
 Our final log-log regression model achieved strong predictive performance:
 
-* Adjusted R-squared: 67.01% - indicating the model explains approximately 67% of salary variation
-* Cross-Validation: LOOCV RMSE of 0.371 on log-transformed scale
-* Diagnostic Tests: Breusch-Pagan test results showed improved heteroscedasticity compared to linear models
-* VIF Analysis: Multicollinearity assessment confirmed model stability (though interaction terms showed expected higher values)
+* **Adjusted R-squared:** 67.01% - indicating the model explains approximately 67% of salary variation
+* **Cross-Validation:** LOOCV RMSE of 0.371 on log-transformed scale
+* **Diagnostic Tests:** Breusch-Pagan test results showed improved heteroscedasticity compared to linear models
+* **VIF Analysis**: Multicollinearity assessment confirmed model stability (though interaction terms showed expected higher values)
 
 * [Game_of_Life Code](https://github.com/MThompson384/Game_of_Life.ML-Project/blob/main/notebook.ipynb)
 
