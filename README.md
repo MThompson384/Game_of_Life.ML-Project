@@ -24,10 +24,10 @@ Tony Afuti
 This project, which we titled "The Game of Life," focuses on analyzing various factors such as education, age, gender, and location to assess their impact on salary disparities across different countries. Taking inspiration from the classic Game of Life board game, the name reflects how these life choices and circumstances directly influence earning potential, much like how decisions in the board game determine your path and outcomes. We developed predictive models to understand compensation patterns and created interactive data visualizations to effectively communicate our findings to our audience.
 ### Key Areas of Focus:
 
-* Cost-of-Living Adjustments: Analyze and implement fair salary comparisons across countries with different economic conditions using purchasing power parity indices.
-* Demographic Impact Analysis: Utilize statistical modeling to assess how age, gender, education level, and seniority status influence earning potential.
-* Predictive Modeling: Enhance salary forecasting through advanced regression techniques including log-log transformations for improved accuracy.
-* Interactive Visualizations: Create compelling visual representations to present findings and enable real-time salary predictions for different scenarios.
+* **Cost-of-Living Adjustments:** Analyze and implement fair salary comparisons across countries with different economic conditions using purchasing power parity indices.
+* **Demographic Impact Analysis:** Utilize statistical modeling to assess how age, gender, education level, and seniority status influence earning potential.
+* **Predictive Modeling:** Enhance salary forecasting through advanced regression techniques including log-log transformations for improved accuracy.
+* **Interactive Visualizations:** Create compelling visual representations to present findings and enable real-time salary predictions for different scenarios.
 
 ### Expected Outcomes: 
 
